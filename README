@@ -1,0 +1,4 @@
+This tool provides output highlighting for the SPLint [1] static
+code analyser.
+
+[1] http://splint.org/
